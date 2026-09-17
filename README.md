@@ -37,8 +37,10 @@ O backend está hospedado no Render e conectado ao MongoDB Atlas.
 
 ## Dados do personagem
 
-`{
+```json
+{
   "nome": "Satoru Gojo",
   "categoria": "Feiticeiro",
   "tecnica": "Limitless"
-}`
+}
+```
