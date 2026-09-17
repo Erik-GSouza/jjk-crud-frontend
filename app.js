@@ -1,5 +1,5 @@
 const API_URL = "https://jjk-crud-backend.onrender.com/personagens";
-// enderço da API local do back
+// enderço da API online
 
 //form elements
 const formulario = document.querySelector("#form-personagem");
